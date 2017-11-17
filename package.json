@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-andreas",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Michi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "11.2.1"
+  }
+}
