@@ -10,7 +10,7 @@ bot.on('message', message => {
     if(message.author !== bot.user) return;
  
     if(message.content === "hello") {
-        message.channel.sendMessage("world");
+        message.channel.sendMessage("hello");
     }
 });
 
